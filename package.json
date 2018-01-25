@@ -4,7 +4,7 @@
     "description": "northstar task",
     "main": "index.js",
     "scripts": {
-        "start": "babel-node ./src/backend/server.js --presets es2015,stage-1",
+        "start": "babel-node ./src/backend/server.js --presets es2015,stage-1"
     },
     "author": "Marius Jasaitis",
     "devDependencies": {
