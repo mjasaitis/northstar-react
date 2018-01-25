@@ -1,0 +1,19 @@
+body {
+    padding-top: 50px;
+}
+
+.fade.in{
+   filter: alpha(opacity=100);
+ 	opacity: 1
+}
+
+.modal-backdrop.in {
+    filter: alpha(opacity=50);
+    opacity: .5;
+}
+
+.modal.fade .modal-dialog{
+	z-index: 1042;
+	transform: none;
+}
+
